@@ -16,8 +16,8 @@ __How to work on the exercises:__
 __Another option: Run the notebooks via Binder by simply clicking on the badges__
 
 - Day 1 - Exercise 1: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day1_ex1_preprocessing_exercise.ipynb)
-- Day 1 - Exercise 2: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day1_ex2_representing-docs_exercise.ipynb)
-- Day 1 - Exercise 3: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day1_ex3_sentiment-analysis_exercise.ipynb)
-- Day 2 - Exercise 1: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex1_word2vec_exercise.ipynb)
-- Day 2 - Exercise 2: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex2_doc2vec_exercise.ipynb)
-- Day 2 - Exercise 3: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex3_fasttext_exercise.ipynb)
+- Day 1 - Exercise 2: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day1_ex2_representing-docs_exercise.ipynb)
+- Day 1 - Exercise 3: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day1_ex3_sentiment-analysis_exercise.ipynb)
+- Day 2 - Exercise 1: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex1_word2vec_exercise.ipynb)
+- Day 2 - Exercise 2: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex2_doc2vec_exercise.ipynb)
+- Day 2 - Exercise 3: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex3_fasttext_exercise.ipynb)
