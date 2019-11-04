@@ -4,4 +4,3 @@ nltk
 gensim
 sklearn
 bs4
-math
