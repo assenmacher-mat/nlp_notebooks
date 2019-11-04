@@ -1,7 +1,6 @@
 pandas
 numpy
 nltk
-urllib
 gensim
 sklearn
 bs4
