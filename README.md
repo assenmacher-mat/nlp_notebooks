@@ -25,8 +25,8 @@ __Another option: Run the notebooks via Binder by simply clicking on the badges_
 - Day 2 - Solution 1: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex1_word2vec_solution.ipynb)
 - Day 2 - Exercise 2: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex2_doc2vec_exercise.ipynb)
 - Day 2 - Solution 2: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex2_doc2vec_solution.ipynb)
-- Day 2 - Exercise 3: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex3_fasttext_exercise.ipynb)
-- Day 2 - Solution 3: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex3_fasttext_solution.ipynb)
+- Day 2 - Exercise 3: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex3_fastText_exercise.ipynb)
+- Day 2 - Solution 3: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day2_ex3_fastText_solution.ipynb)
 - Day 3 - Exercise 1: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day3_ex1_simpletransformers_exercise.ipynb)
 - Day 3 - Solution 1: [![Binder](https://mybinder.org/static/images/badge_logo.svg?v=117793ab76524046ef44e2d2d5af220c)](https://mybinder.org/v2/gh/assenmacher-mat/nlp_notebooks/master?filepath=day3_ex1_simpletransformers_solution.ipynb)
 
