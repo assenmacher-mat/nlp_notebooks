@@ -1,7 +1,0 @@
-pandas
-numpy
-nltk
-gensim
-sklearn
-bs4
-simpletransformers
