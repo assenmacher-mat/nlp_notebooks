@@ -7,11 +7,18 @@ __How to work on the exercises:__
     + Files ending with ``_exercise.ipynb`` are the empty exercise sheets
     + Files ending with ``_solution.ipynb`` are the solved exercise sheets
     + Files ending with ``_solution.html`` are the solved exercise sheets as html
+
+__On your local machine:__
 - Download the files from https://github.com/assenmacher-mat/nlp_notebooks
 - Open command line
 - Type "jupyter lab" and hit enter
 - Wait for JupyterLab to open in your browser
 - Open the respective file from inside JupyterLab
+
+__On GoogleColab:__
+- Open [Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+- Choose "Open from GitHub" and enter the url of this repository.
+- Choose the file of the respective exercise and start working on it.
 
 __Another option: Run the notebooks via Binder by simply clicking on the badges__
 
